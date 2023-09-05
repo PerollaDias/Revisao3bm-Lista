@@ -1,0 +1,15 @@
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\bin\Debug\net6.0\REVISAO3B.exe
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\bin\Debug\net6.0\REVISAO3B.deps.json
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\bin\Debug\net6.0\REVISAO3B.runtimeconfig.json
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\bin\Debug\net6.0\REVISAO3B.dll
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\bin\Debug\net6.0\REVISAO3B.pdb
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\REVISAO3B.csproj.AssemblyReference.cache
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\REVISAO3B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\REVISAO3B.AssemblyInfoInputs.cache
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\REVISAO3B.AssemblyInfo.cs
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\REVISAO3B.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\REVISAO3B.dll
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\refint\REVISAO3B.dll
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\REVISAO3B.pdb
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\REVISAO3B.genruntimeconfig.cache
+C:\Users\2022102020078\source\repos\REVISAO3B\REVISAO3B\obj\Debug\net6.0\ref\REVISAO3B.dll
